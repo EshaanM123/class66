@@ -1,0 +1,14 @@
+body{
+    font-size: 40px;
+    color: antiquewhite;
+}
+#apps{
+    background-color: blue;
+}
+#games{
+    background-color: blueviolet;
+    margin: 100px;
+}
+#chatbot{
+    background-color: chartreuse;
+}
